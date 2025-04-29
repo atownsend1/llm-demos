@@ -1,5 +1,3 @@
-### LLM Demos
-
-A place to explore some work with LLMs.
-
-Start with [this data](https://raw.githubusercontent.com/dwillis/jour405/refs/heads/main/data/md_pres_county.csv).
+The HTML site worked as is; the other two formats, JavaScript and CSS, both opened in RStudio. The original HTML site was bare and simplistic. The webpage only had the drop-down menu to select the county, and once selecting the county, the webpage shows both the number of votes by candidate and then the percentage breakdown per candidate for that specific county. 
+My attempt to improve the site was to add a bar graph. The bar graph color-coded each candidate and showed the number of votes going up in increments of 2,000. This made the webpage more visually appealing, better able to process the data. 
+This would be easy for data comprehension and data entry. A lot of things revolve around putting in data, not just election numbers. Inputting data into AI and asking it to produce a webpage to better understand would make it easier for journalists.
